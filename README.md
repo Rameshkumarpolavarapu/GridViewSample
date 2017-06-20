@@ -1,2 +1,2 @@
 # GridViewSample
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/Rameshkumarpolavarapu/GridViewSample/blob/master/screen%20shots/Screenshot_1497960492.png)
